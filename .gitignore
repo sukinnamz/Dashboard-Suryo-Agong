@@ -46,4 +46,7 @@ api.md
 
 # supabase
 supabase/.temp
+supabase/.cache
+supabase/.supabase
+supbase/.env
 *.webm
